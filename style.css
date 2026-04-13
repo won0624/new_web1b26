@@ -26,7 +26,7 @@ h3 {
 }
 
 img {
-    border: 6px solid;
+    border: 6px solid white;
     border-radius: 200px;
     background: linear-gradient(skyblue, navy);
 }
