@@ -13,3 +13,10 @@ header {
     width: 1240px;
     margin: 0 auto 44px;
 }
+h1 {
+    text-align: center;
+    padding: 20px 0 16px;
+}
+header nav ul {
+    display: flex;
+}
